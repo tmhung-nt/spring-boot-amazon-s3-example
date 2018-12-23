@@ -1,0 +1,5 @@
+.idea/
+target/
+spring-boot-amazon-s3-example.iws
+spring-boot-amazon-s3-example.iml
+spring-boot-amazon-s3-example.ipr
